@@ -1,4 +1,4 @@
-# cpac-vue
+# vue-preset
 
 ## Project setup
 ```
